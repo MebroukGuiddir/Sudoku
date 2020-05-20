@@ -8,7 +8,7 @@ void Afficher();
 int poids(int n);
 void afficherTable(int table[9][9]);
 void remplirTables_n();
-void remplirTables();
+void remplirTables_nn();
 int * MemeLigne(int ligne);
 int * MemeColonne(int colonne);
 int * MemeRegion(int region);
